@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f4cb706f15ed9452c8c560448167c616.js"
+  "/precache-manifest.34d03443b1226fd7ab51a1a4f7efcdcf.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "my-resume"});
+workbox.core.setCacheNameDetails({prefix: "vaibhav-portfolio"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
