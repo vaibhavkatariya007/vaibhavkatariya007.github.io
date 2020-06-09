@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/bg.278d9283.png"
   },
   {
-    "revision": "6686c35759feeb73c77f4af79b2e49e8",
+    "revision": "77e2a7e01da1a86c41d978b1a770174e",
     "url": "/index.html"
   },
   {
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/portfolio-legacy.d17dd32c.js"
   },
   {
-    "revision": "7664f519ee129fd35b18de57451c880f",
+    "revision": "5a8169a5a21d62bf8380d3c452ea1471",
     "url": "/manifest.json"
   }
 ]);
