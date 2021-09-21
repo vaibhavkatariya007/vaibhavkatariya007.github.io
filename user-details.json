@@ -1,0 +1,100 @@
+{
+    "name":"vaibhav katariya",
+    "birthday":"1989-11-23T00:05:32.000Z",
+    "email":"vaibhav.katariya085@gmail.com",
+    "job": "Technical Lead",
+    "phone": "9582184180, 7906067058", 
+    "skypeId":"live:vaibhav.katariya085",
+    "address":"Block C - 509, Anjaneya Anugraha Apartments, Imaddihalli, Whitefield, Bangalore, 560066",
+    "userImage":"https://media-exp1.licdn.com/dms/image/C5603AQGvT4kimsnLWg/profile-displayphoto-shrink_800_800/0/1588913427045?e=1636588800&v=beta&t=8bgriF1vznY72EyudeRNXXQ2R3tOyF_9lEPZr6562ew",
+    "description":"Hi, I am Vaibhav i am working as a 'Technical Lead' in Accion Labs. I am having around 7 Yrs of experience as software engineer. I worked on many web/ mobile applications build on various technologies.My current technology stack is MEAN/MERN Stack, with AWS and DigitalOcean cloud services. I am enthusiast to learn new technologies like Data Science, AR/VR , AI/ML. ",
+    "services":"I am open to work on freelance projects. For various technologies like, ReactJs, VueJs, Svelte, NextJs, NodeJs, ExpressJs, NestJs, React Native, Flutter, AWS.",
+    "history": [
+        {
+            "working_history":[
+                  {
+                    "job_title":"Technical lead",
+                    "company_name":"Accion Labs Pvt. Ltd.",
+                    "job_location":"Bengaluru (Karnataka)",
+                    "job_description":"",
+                    "start_date":"1 April 2021",
+                    "end_date":"Present"
+            },
+                 {
+                    "job_title":"Sr. Software developer",
+                    "company_name":"Accion Labs Pvt. Ltd.",
+                    "job_location":"Bengaluru (Karnataka)",
+                    "job_description":"",
+                    "start_date":"16 June 2018",
+                    "end_date":"31 March 2021"
+            },
+                 {
+                    "job_title":"Software developer",
+                    "company_name":"WalkingTree Technology Pvt. Ltd.",
+                    "job_location":"Hyderabad (Telangana)",
+                    "job_description":"",
+                    "start_date":"13 Nov 2017",
+                    "end_date":"1 June 2018"
+            },
+                  {
+                    "job_title":"Software developer",
+                    "company_name":"E-Smart Systems Pvt. Ltd.",
+                    "job_location":"New Delhi (Delhi)",
+                    "job_description":"",
+                    "start_date":"23 Nov 2016",
+                    "end_date":"7 Nov 2017"
+            },
+                {
+                    "job_title":"Sr. UI developer",
+                    "company_name":"Vinkom Solutions Pvt. Ltd.",
+                    "job_location":"Gurugram (Haryana)",
+                    "job_description":"",
+                    "start_date":"23 May 2016",
+                    "end_date":"22 Nov 2016"
+            },
+             {
+                    "job_title":"Sr. FullStack PHP developer",
+                    "company_name":"Crux Creative Solutions Pvt. Ltd.",
+                    "job_location":"Gurugram (Haryana)",
+                    "job_description":"",
+                    "start_date":"15 Oct 2015",
+                    "end_date":"20 May 2016"
+            },
+            {
+                    "job_title":"Web designer/UI developer",
+                    "company_name":"Vidyamantra edu system pvt.ltd.",
+                    "job_location":"Gr. Noida (Uttar Pradesh)",
+                    "job_description":"",
+                    "start_date":"5 May 2014",
+                    "end_date":"13 Oct 2015"
+            }
+        ],
+            "educational_history":[
+                {
+                    "course_pursue":"B.tech (CSE)",
+                    "college_name":"Dev Bhoomi Institute of technology",
+                    "location":"Dehradun (Uttarakhand)",
+                    "description": "",
+                    "start_date": "2009",
+                    "end_date": "2013"
+                },
+                {
+                    "course_pursue":"12th (PCMC)",
+                    "college_name":"Raja Ram Mohan Roy Academy",
+                    "location":"Dehradun (Uttarakhand)",
+                    "description":"",
+                    "start_date":"2007",
+                    "end_date":"2009"
+                },
+                {
+                    "course_pursue":"10th (PCMCB)",
+                    "college_name":"St. Thomas Convent School",
+                    "location":"Pauri Garhwal (Uttarakhand)",
+                    "description":"",
+                    "start_date":"2006",
+                    "end_date":"2007"
+                }
+            ]
+        }
+    ]
+}
