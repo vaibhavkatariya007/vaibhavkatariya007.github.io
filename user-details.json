@@ -5,8 +5,8 @@
     "job": "Technical Lead",
     "phone": "9582184180, 7906067058", 
     "skypeId":"live:vaibhav.katariya085",
-    "address":"Block C - 509, Anjaneya Anugraha Apartments, Imaddihalli, Whitefield, Bangalore, 560066",
-    "userImage":"https://media-exp1.licdn.com/dms/image/C5603AQGvT4kimsnLWg/profile-displayphoto-shrink_800_800/0/1588913427045?e=1636588800&v=beta&t=8bgriF1vznY72EyudeRNXXQ2R3tOyF_9lEPZr6562ew",
+    "address":"Flat - 212, Sunrise Aurora Apartment, 1, Hoskote Rd, Nagondanahalli, Whitefield, Bengaluru, Karnataka, 560066",
+    "userImage":"/my_pic.png",
     "description":"Hi, I am Vaibhav i am working as a 'Technical Lead' in Accion Labs. I am having around 7 Yrs of experience as software engineer. I worked on many web/ mobile applications build on various technologies.My current technology stack is MEAN/MERN Stack, with AWS and DigitalOcean cloud services. I am enthusiast to learn new technologies like Data Science, AR/VR , AI/ML. ",
     "services":"I am open to work on freelance projects. For various technologies like, ReactJs, VueJs, Svelte, NextJs, NodeJs, ExpressJs, NestJs, React Native, Flutter, AWS.",
     "history": [
@@ -96,5 +96,8 @@
                 }
             ]
         }
-    ]
+    ],
+    "resume":{
+        "pdf_format":"/my_resume.pdf"
+    }
 }

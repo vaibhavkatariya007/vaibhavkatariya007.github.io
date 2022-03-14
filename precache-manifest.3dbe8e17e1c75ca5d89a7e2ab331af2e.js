@@ -56,6 +56,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
+    "revision": "80b6bd25865b41c4e183933208f3ad05",
+    "url": "/my_pic.png"
+  },
+  {
+    "revision": "556947fd6daf85897a96564b7b388274",
+    "url": "/my_resume.pdf"
+  },
+  {
     "revision": "cc9f8413a24bb70038c1c91a9cc9f949",
     "url": "/project_1.png"
   },
@@ -88,7 +96,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robots.txt"
   },
   {
-    "revision": "764cfb38845cc1041790cfe135212334",
+    "revision": "51bf6af5d128ef3ed148f162eaa7765e",
     "url": "/user-details.json"
   },
   {
