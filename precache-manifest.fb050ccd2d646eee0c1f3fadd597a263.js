@@ -1,5 +1,9 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
+    "revision": "725e0890ec316141128c754c049396fc",
+    "url": "/404.html"
+  },
+  {
     "revision": "21deb842923768bd488541b67317cbf4",
     "url": "/Vaibhav_Resume_Updated_On_27-4-2022.pdf"
   },
@@ -28,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/bg.278d9283.png"
   },
   {
-    "revision": "c7e2cb7740eea5c1e5d888d0ecdcf1ba",
+    "revision": "d7ef2797d9ae6eeea9f7555c8e070b5c",
     "url": "/index.html"
   },
   {
@@ -62,10 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "80b6bd25865b41c4e183933208f3ad05",
     "url": "/my_pic.png"
-  },
-  {
-    "revision": "556947fd6daf85897a96564b7b388274",
-    "url": "/my_resume.pdf"
   },
   {
     "revision": "cc9f8413a24bb70038c1c91a9cc9f949",

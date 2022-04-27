@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fbb1fe4cc9c5d61e471e0fd7d05dc27c.js"
+  "/precache-manifest.fb050ccd2d646eee0c1f3fadd597a263.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vaibhav-portfolio"});
