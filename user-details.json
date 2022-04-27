@@ -8,7 +8,7 @@
     "address":"Flat - 212, Sunrise Aurora Apartment, 1, Hoskote Rd, Nagondanahalli, Whitefield, Bengaluru, Karnataka, 560066",
     "userImage":"/my_pic.png",
     "description":"<p>Hi, I am Vaibhav Katariya. People call me <strong>'Vibhu'</strong>. I am working as <strong>'Technical Lead'</strong> in <strong>Accion Labs</strong>. </p><p>I am having  7 Yrs plus experience in IT industry as a software engineer. I  worked on many web / mobile applications build on various technologies.</p><p>My current technology stack is MEAN / MERN with AWS and DigitalOcean cloud services. I am enthusiast to learn new technologies like Data Science, AR / VR, AI / ML.</p>",
-    "services":"<p>I work as a freelancer too in my spare time.I have delivered more than 5 applications successfully.</p><p>I can give support for building a tech solution on any of the following:</p><p>Angular, React, Vue, Svelte, NextJs, NuxtJs, NodeJs, ExpressJs, NestJs, React Native, Flutter, Sql, MongoDb, PHP, Java(SpringBoot), Docker, AWS, Digital Ocean and many more.</p><p>I Just say Please give me Chance! And I am sure you would definitely like working with me.</p>",
+    "services":"<p>I work as a freelancer too in my spare time.I have delivered more than 5 applications successfully.</p><p>I can give support for bulding a tech solution on any of the following:</p><p>Angular, React, Vue, Svelte, NextJs, NuxtJs, NodeJs, ExpressJs, NestJs, React Native, Flutter, Sql, MongoDb, PHP, Java(SpringBoot), Docker, AWS, Digital Ocean and many more.</p><p>I Just say Please give  me Chance! And i am sure you definitely like working with me.</p>",
     "history": [
         {
             "working_history":[
@@ -98,6 +98,6 @@
         }
     ],
     "resume":{
-        "pdf_format":"/my_resume.pdf"
+        "pdf_format":"/Vaibhav_Resume_Updated_On_27-4-2022.pdf"
     }
 }

@@ -1,10 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0454ddb0e2fb758d3fe",
+    "revision": "21deb842923768bd488541b67317cbf4",
+    "url": "/Vaibhav_Resume_Updated_On_27-4-2022.pdf"
+  },
+  {
+    "revision": "fd0fe2413cbe4e1c9937",
     "url": "/css/about.b014d084.css"
   },
   {
-    "revision": "9f098bde666822b937bf",
+    "revision": "ec4218721cf7442ed9d0",
     "url": "/css/app.b5ddc116.css"
   },
   {
@@ -12,11 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-vendors.51993b31.css"
   },
   {
-    "revision": "c8c5acb64e364dc5f51f",
-    "url": "/css/contact.701ac277.css"
+    "revision": "6b5f6ed6e7c2294cd646",
+    "url": "/css/contact.c5d81141.css"
   },
   {
-    "revision": "49d7077a11bf2d7f09cb",
+    "revision": "7ebe18d3a277158c17ce",
     "url": "/css/portfolio.e2f29db2.css"
   },
   {
@@ -24,32 +28,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/bg.278d9283.png"
   },
   {
-    "revision": "34caa22a58e99d0bc82adedb7255f3fc",
+    "revision": "c7e2cb7740eea5c1e5d888d0ecdcf1ba",
     "url": "/index.html"
   },
   {
-    "revision": "c0454ddb0e2fb758d3fe",
-    "url": "/js/about.7c1b624e.js"
+    "revision": "fd0fe2413cbe4e1c9937",
+    "url": "/js/about.1c9fd65a.js"
   },
   {
-    "revision": "9f098bde666822b937bf",
-    "url": "/js/app.3468faf3.js"
+    "revision": "ec4218721cf7442ed9d0",
+    "url": "/js/app.069429bc.js"
   },
   {
-    "revision": "cae263252588a7592c27",
-    "url": "/js/blog.03627d88.js"
+    "revision": "a93bbe7ddf5f4184d020",
+    "url": "/js/blog.fabbb2d6.js"
   },
   {
     "revision": "c6a20561eedee7fc1f90",
     "url": "/js/chunk-vendors.af30f621.js"
   },
   {
-    "revision": "c8c5acb64e364dc5f51f",
-    "url": "/js/contact.fc734eb9.js"
+    "revision": "6b5f6ed6e7c2294cd646",
+    "url": "/js/contact.9293bf78.js"
   },
   {
-    "revision": "49d7077a11bf2d7f09cb",
-    "url": "/js/portfolio.0519e288.js"
+    "revision": "7ebe18d3a277158c17ce",
+    "url": "/js/portfolio.55353344.js"
   },
   {
     "revision": "5a8169a5a21d62bf8380d3c452ea1471",
@@ -96,7 +100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robots.txt"
   },
   {
-    "revision": "5cf69378edc3edd8d391c7818bc14730",
+    "revision": "0ebddb398a9e706f594e7720e590f208",
     "url": "/user-details.json"
   },
   {
