@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["blog"],{fd3f:function(a,t,s){"use strict";s.r(t);var l=function(){var a=this,t=a._self._c;return t("div",{class:a.className},[t("section",{staticClass:"padding_30 padbot_45"},[t("app-title",{attrs:{label:"Blog"}}),t("p",{staticClass:"top_30"},[a._v("COMING SOON")])],1)])},n=[],p=s("fa2b"),e={props:{data:Object,className:String},components:{appTitle:p["a"]}},c=e,o=s("2877"),i=Object(o["a"])(c,l,n,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=blog.57296639.js.map

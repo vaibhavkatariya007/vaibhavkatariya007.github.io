@@ -1,39 +1,56 @@
 {
-    "name":"vaibhav katariya",
+    "name":"Vaibhav Katariya",
     "birthday":"1989-11-23T00:05:32.000Z",
     "email":"vaibhav.katariya085@gmail.com",
-    "job": "Technical Lead",
+    "job": "Lead Engineer",
     "phone": "9582184180, 7906067058", 
     "skypeId":"live:vaibhav.katariya085",
-    "address":"Flat - 212, Sunrise Aurora Apartment, 1, Hoskote Rd, Nagondanahalli, Whitefield, Bengaluru, Karnataka, 560066",
+    "linkedin":"https://in.linkedin.com/in/vaibhav-katariya-25051271",
+    "address":"Flat - 203, Sunrise Aurora Apartment, 1, Hoskote Rd, Nagondanahalli, Whitefield, Bengaluru, Karnataka, 560066",
     "userImage":"/my_pic.png",
-    "description":"<p>Hi, I am Vaibhav Katariya. People call me <strong>'Vibhu'</strong>. I am working as <strong>'Technical Lead'</strong> in <strong>Accion Labs</strong>. </p><p>I am having  7 Yrs plus experience in IT industry as a software engineer. I  worked on many web / mobile applications build on various technologies.</p><p>My current technology stack is MEAN / MERN with AWS and DigitalOcean cloud services. I am enthusiast to learn new technologies like Data Science, AR / VR, AI / ML.</p>",
-    "services":"<p>I work as a freelancer too in my spare time.I have delivered more than 5 applications successfully.</p><p>I can give support for bulding a tech solution on any of the following:</p><p>Angular, React, Vue, Svelte, NextJs, NuxtJs, NodeJs, ExpressJs, NestJs, React Native, Flutter, Sql, MongoDb, PHP, Java(SpringBoot), Docker, AWS, Digital Ocean and many more.</p><p>I Just say Please give  me Chance! And i am sure you definitely like working with me.</p>",
+    "description":"<p>Hi, I’m Vaibhav Katariya, but most people call me <strong>‘Vibhu.’</strong></p> <p>I am currently working as a <strong>Lead Engineer</strong> at <strong>Epam Systems Pvt. Ltd.</strong>, bringing over 10 years of experience in the IT industry as a software engineer. Throughout my career, I have designed, developed, and optimized high-performance web and mobile applications across diverse technologies and industries.</p><p>My core expertise lies in MEAN/MERN stack development, coupled with cloud computing on AWS and DigitalOcean, where I focus on building scalable, secure, and efficient solutions. Beyond my primary stack, I am deeply passionate about emerging technologies such as Data Science, Artificial Intelligence (AI), Machine Learning (ML), and Augmented/Virtual Reality (AR/VR). I constantly seek opportunities to innovate, explore new tech trends, and enhance user experiences through cutting-edge solutions.</p> <p>With a strong problem-solving mindset, I thrive in fast-paced environments, mentoring teams, and driving impactful projects that bridge technology with real-world applications.</p>",
+    "services":"<p>In addition to my full-time role, I also work as a freelancer in my spare time. With a proven track record, I have successfully delivered 5+ applications, helping businesses build scalable and efficient tech solutions.</p><p>I offer end-to-end development support in the following technologies: <ul><li>✅ Frontend: Angular, React, Vue, Svelte, Next.js, Nuxt.js</li><li>✅ Backend: Node.js, Express.js, Nest.js, PHP, Java (Spring Boot)</li><li>✅ Mobile Development: React Native, Flutter</li><li>✅ Databases: SQL, MongoDB</li><li>✅ Cloud & DevOps: AWS, DigitalOcean, Docker</li></ul></p><p>If you're looking for a reliable and skilled developer, I'd love the opportunity to collaborate. Give me a chance, and I’m sure you’ll enjoy working with me! 🚀</p>",
     "history": [
         {
             "working_history":[
+                {
+                    "job_title":"Lead Engineer",
+                    "company_name":"Epam Systems Pvt. Ltd.",
+                    "job_location":"Bengaluru (Karnataka)",
+                    "job_description":"",
+                    "start_date":"22 Sep, 2022",
+                    "end_date":"Present"
+            },
+            {
+                "job_title":"Sr. Engineering Lead",
+                "company_name":"Accion Labs Pvt. Ltd.",
+                "job_location":"Bengaluru (Karnataka)",
+                "job_description":"",
+                "start_date":"1 Apr, 2022",
+                "end_date":"20 Sep, 2022"
+        },
                   {
                     "job_title":"Technical lead",
                     "company_name":"Accion Labs Pvt. Ltd.",
                     "job_location":"Bengaluru (Karnataka)",
                     "job_description":"",
-                    "start_date":"1 April 2021",
-                    "end_date":"Present"
+                    "start_date":"1 Apr, 2021",
+                    "end_date":"31 Mar, 2022"
             },
                  {
                     "job_title":"Sr. Software developer",
                     "company_name":"Accion Labs Pvt. Ltd.",
                     "job_location":"Bengaluru (Karnataka)",
                     "job_description":"",
-                    "start_date":"16 June 2018",
-                    "end_date":"31 March 2021"
+                    "start_date":"16 Jun, 2018",
+                    "end_date":"31 May, 2021"
             },
                  {
                     "job_title":"Software developer",
                     "company_name":"WalkingTree Technology Pvt. Ltd.",
                     "job_location":"Hyderabad (Telangana)",
                     "job_description":"",
-                    "start_date":"13 Nov 2017",
+                    "start_date":"13 Nov, 2017",
                     "end_date":"1 June 2018"
             },
                   {
@@ -41,32 +58,32 @@
                     "company_name":"E-Smart Systems Pvt. Ltd.",
                     "job_location":"New Delhi (Delhi)",
                     "job_description":"",
-                    "start_date":"23 Nov 2016",
-                    "end_date":"7 Nov 2017"
+                    "start_date":"23 Nov, 2016",
+                    "end_date":"7 Nov, 2017"
             },
                 {
                     "job_title":"Sr. UI developer",
                     "company_name":"Vinkom Solutions Pvt. Ltd.",
                     "job_location":"Gurugram (Haryana)",
                     "job_description":"",
-                    "start_date":"23 May 2016",
-                    "end_date":"22 Nov 2016"
+                    "start_date":"23 May, 2016",
+                    "end_date":"22 Nov, 2016"
             },
              {
                     "job_title":"Sr. FullStack PHP developer",
                     "company_name":"Crux Creative Solutions Pvt. Ltd.",
                     "job_location":"Gurugram (Haryana)",
                     "job_description":"",
-                    "start_date":"15 Oct 2015",
-                    "end_date":"20 May 2016"
+                    "start_date":"15 Oct, 2015",
+                    "end_date":"20 May, 2016"
             },
             {
                     "job_title":"Web designer/UI developer",
                     "company_name":"Vidyamantra edu system pvt.ltd.",
                     "job_location":"Gr. Noida (Uttar Pradesh)",
                     "job_description":"",
-                    "start_date":"5 May 2014",
-                    "end_date":"13 Oct 2015"
+                    "start_date":"5 May, 2014",
+                    "end_date":"13 Oct, 2015"
             }
         ],
             "educational_history":[
